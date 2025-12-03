@@ -1,0 +1,13 @@
+Name: Product Selection
+Type: FolderType
+Children:
+- Name: Lane1Product
+  Id: g=05cdc8ac1795f320edf79a8d116658b7
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+- Name: Lane2Product
+  Id: g=c7d53ca3a017838075d219d4ed046fdb
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"

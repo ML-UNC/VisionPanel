@@ -1,0 +1,23 @@
+Name: Names
+Type: FolderType
+Children:
+- Name: Navigation_Pos1
+  Type: Navigation_Pos
+  Children:
+  - Name: name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Lesson1"
+    Children:
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: "../panelNodeId@BrowseName"
+  - Name: description
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Maintenance"
+  - Name: panelNodeId
+    Type: BaseDataVariableType
+    DataType: NodeId
+    Value: "/Objects/VisionTake3/UI/Panels/Maintenance"

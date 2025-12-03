@@ -1,0 +1,16 @@
+Name: Manual Controls
+Type: FolderType
+Children:
+- Name: Title
+  Id: g=7433dffb39f5eebb22e8cf1a1f9a29a1
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+- Name: Placeholder
+  Id: g=f1b03f7031ffd3b67617a6bd663ec993
+  Type: BaseDataVariableType
+  DataType: Int16
+- Name: TEST
+  Id: g=6fb763217b9cc35582484f0a1560519f
+  Type: BaseDataVariableType
+  DataType: Boolean
