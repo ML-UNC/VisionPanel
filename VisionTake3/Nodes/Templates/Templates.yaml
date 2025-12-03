@@ -1,7 +1,0 @@
-Name: Templates
-Type: FolderType
-Children:
-- File: Panels/Panels.yaml
-- File: Objects/Objects.yaml
-- File: Names/Names.yaml
-- File: Buttons/Buttons.yaml

@@ -1,7 +1,0 @@
-Name: Model
-Type: ModelCategoryFolder
-Children:
-- File: Screen_Changes/Screen_Changes.yaml
-- File: Product_Selection/Product_Selection.yaml
-- File: Manual_Controls/Manual_Controls.yaml
-- File: Maintenance_Screen/Maintenance_Screen.yaml
