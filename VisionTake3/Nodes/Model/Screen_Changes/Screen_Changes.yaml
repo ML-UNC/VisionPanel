@@ -1,0 +1,146 @@
+Name: Screen Changes
+Type: FolderType
+Children:
+- Name: NavPos
+  Id: g=d832ea3f3b284274e2db1b2363436ce2
+  Supertype: BaseObjectType
+  Children:
+  - Name: Name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: Description
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: NodeId
+    Type: BaseDataVariableType
+    DataType: NodeId
+- Name: NavPos1
+  Id: g=626d4b1bcb84a544866cc55908e401d7
+  Type: NavPos
+  Children:
+  - Name: Name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Maintenance"
+  - Name: Description
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: NodeId
+    Type: BaseDataVariableType
+    DataType: NodeId
+    Value: "/Objects/VisionTake3/UI/Panels/Maintenance"
+- Name: NavPos2
+  Id: g=36e9e6f58a8d375f69b828d92d2df80c
+  Type: NavPos
+  Children:
+  - Name: Name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Alarming"
+  - Name: Description
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: NodeId
+    Type: BaseDataVariableType
+    DataType: NodeId
+    Value: "/Objects/VisionTake3/UI/Panels/Alarming"
+- Name: NavPos3
+  Id: g=e912cbf5f1114aacfca2f70d1c2f0bdc
+  Type: NavPos
+  Children:
+  - Name: Name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Camera Browser"
+  - Name: Description
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: NodeId
+    Type: BaseDataVariableType
+    DataType: NodeId
+    Value: "/Objects/VisionTake3/UI/Panels/CameraBrowser"
+- Name: NavPos4
+  Id: g=b4475928fd338633a41cea06f89c0ac5
+  Type: NavPos
+  Children:
+  - Name: Name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Product Selection"
+  - Name: Description
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: NodeId
+    Type: BaseDataVariableType
+    DataType: NodeId
+    Value: "/Objects/VisionTake3/UI/Panels/ProductPicker"
+- Name: NavPos5
+  Id: g=b35122172fc45f1cf3f01a7f607c1b03
+  Type: NavPos
+  Children:
+  - Name: Name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Lane 1 Product Selection"
+  - Name: Description
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: NodeId
+    Type: BaseDataVariableType
+    DataType: NodeId
+    Value: "/Objects/VisionTake3/UI/Panels/Lane1ProductSelect"
+- Name: NavPos6
+  Id: g=b1df1945d9c5ad6255fb7292a01c3128
+  Type: NavPos
+  Children:
+  - Name: Name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "TBD"
+  - Name: Description
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: NodeId
+    Type: BaseDataVariableType
+    DataType: NodeId
+    Value: "/Objects/VisionTake3/UI/Panels/TBD1"
+- Name: NavPos7
+  Id: g=60ac07a1b7e2e113e93db6502c6a3fa6
+  Type: NavPos
+  Children:
+  - Name: Name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "TBD"
+  - Name: Description
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: NodeId
+    Type: BaseDataVariableType
+    DataType: NodeId
+    Value: "/Objects/VisionTake3/UI/Panels/TBD2"
+- Name: NavPos8
+  Id: g=cc8ddddf8236403469bf74621c304ce5
+  Type: NavPos
+  Children:
+  - Name: Name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Surprise"
+  - Name: Description
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: NodeId
+    Type: BaseDataVariableType
+    DataType: NodeId
+    Value: "/Objects/VisionTake3/UI/Panels/DVDPlayer"
